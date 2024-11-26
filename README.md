@@ -10,7 +10,10 @@ Projektovanje i izradu baza podataka uz SQL 🧾
 
 
 
+
 Kontaktirajte me i započnimo (ili usavršimo) vaš projekat! md220088d@student.etf.bg.ac.rs
+
+
 
 
 ## Hello, I am Dimitrije Mikarić 👋
@@ -22,6 +25,8 @@ The best software made in Python 🐍
 The best software made in C/C++ 🛠️
 
 Designing and making databases with SQL 🧾
+
+
 
 
 
