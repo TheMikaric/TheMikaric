@@ -1,9 +1,13 @@
 ## Ćao, ja sam Dimitrije Mikarić! 👋
 
 Nudim:
+
 Vrhunski softver napravljen u pajtonu 🐍
+
 Vrhunski softver napravljen uz C/C++ 🛠️
+
 Projektovanje i izradu baza podataka uz SQL 🧾
+
 
 Kontaktirajte me i započnimo (ili usavršimo) vaš projekat! md220088d@student.etf.bg.ac.rs
 
